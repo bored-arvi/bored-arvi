@@ -3,8 +3,7 @@ A Dual Degree student specializing in CS and Data Science.
 
 - **Currently working on:** Web Application Development ([check my repos](https://github.com/bored-arvi))  
 - **Learning:** Linux and Security Fundamentals  
-- **Building Skills:** Algorithms, Web Apps, and Software Engineering
--  **F
+- **Building Skills:** Algorithms, Web Apps, and ML
 
 ---
 
