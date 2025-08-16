@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , I'm Aravinth </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 A Dual Degree student specializing in CS and Data Science.  
 
-- **Currently working on:** Web Application Development ([check my repos](https://github.com/bored-arvi))  
+- **Currently working on:** Web Application Development 
 - **Learning:** Linux and Security Fundamentals  
 - **Building Skills:** Algorithms, Web Apps, and ML
 
@@ -26,10 +26,3 @@ A Dual Degree student specializing in CS and Data Science.
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)  
 
----
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bored-arvi&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)  
-
----
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
