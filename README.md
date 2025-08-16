@@ -1,9 +1,10 @@
-# 📢 About Me
-Hi, I'm **Aravinth**, a Dual Degree student specializing in Computer Science and Engineering.  
+<h1 align="center"><b>Hi , I'm Aravinth </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+A Dual Degree student specializing in CS and Data Science.  
 
-- 🖥️ **Currently working on:** Web Application Development ([check my repos](https://github.com/bored-arvi))  
-- 🐧 **Learning:** Linux and Security Fundamentals  
-- 🔨 **Building Skills:** Algorithms, Web Apps, and Software Engineering  
+- **Currently working on:** Web Application Development ([check my repos](https://github.com/bored-arvi))  
+- **Learning:** Linux and Security Fundamentals  
+- **Building Skills:** Algorithms, Web Apps, and Software Engineering
+-  **F
 
 ---
 
