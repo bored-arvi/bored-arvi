@@ -1,21 +1,33 @@
-<h1 align="center">Hi, I'm Aravinth 👋</h1>
+# Hi, I'm Aravinth 👋
 
-Dual degree student in Computer Science and Data Science.
+CS + Data Science undergrad. I build backend systems, ML pipelines, and full-stack apps — focused on things that actually work in production.
 
-- Building systems across web, ML, and backend  
-- Interested in applied AI, retrieval systems, and scalable pipelines  
-- Currently learning more about Linux and systems-level concepts  
+Currently learning Linux internals and system-level behavior. Interested in applied AI, retrieval systems, and multimodal models.
 
 ---
 
-## Tech Stack
-Python, JavaScript, C++, Java, SQL  
-React, Node.js, Express, FastAPI, Flask  
-PyTorch, Transformers, FAISS, OpenCV  
-MongoDB, PostgreSQL, MySQL  
-Git, Docker, Linux, Nginx  
+### Tech Stack
+
+**Languages:** Python · C++ · Java · JavaScript · SQL
+
+**Frameworks:** FastAPI · Flask · Node · Express · React
+
+**ML/AI:** PyTorch · Transformers · FAISS · OpenCV
+
+**Databases:** MongoDB · PostgreSQL · MySQL
+
+**Tools:** Docker · Linux · Nginx · Git
 
 ---
 
-## What I'm focused on
-Building things that actually run outside my laptop.
+### What I'm working on
+
+- Making systems faster and cheaper to run
+- Building things that are actually usable
+- Getting deeper into Linux and low-level behavior
+
+---
+
+### Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bored-arvi&show_icons=true&theme=dark&hide_border=true)
